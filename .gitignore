@@ -1,0 +1,18 @@
+# Katalogi budowania CMake
+build/
+bin/
+lib/
+out/
+
+# Pliki obiektowe i binarne
+*.o
+*.obj
+*.exe
+*.out
+
+# Pliki środowisk i edytorów
+.vscode/
+.idea/
+*.swp
+*.user
+CMakeUserPresets.json
